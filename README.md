@@ -1,7 +1,9 @@
-# SOLID
+# SOLID PHP 
 
-<h1> SOLID PHP </h1>
-
-<p> S - Single responsibility principle (SRP) </p>
+<h3> S - Single responsibility principle (SRP) </h3>
 
 <p> Принцип единственной обязанности (ответственности) </p>
+ 
+<blockquote> A class should have only one reason to change. (Robert C. Martin) </blockquote>
+
+<p> Принцип единственной обязанности (ответственности) обозначает, что каждый объект должен иметь одну ответственность и эта ответственность должна быть полностью инкапсулирована в класс. Все его поведения должны быть направлены исключительно на обеспечение этой ответственности. </p>
