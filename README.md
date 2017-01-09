@@ -10,6 +10,7 @@
 
 <h3> O - Open Closed Principle (OCP) </h3>
 
+<p> Принцип открытости/закрытости </p> 
 
  <blockquote> 	Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification (Bertrand Meyer) </blockquote>
  
