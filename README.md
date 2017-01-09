@@ -12,4 +12,6 @@
 
 
  <blockquote> 	Software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification (Bertrand Meyer) </blockquote>
+ 
+<p> Принцип открытости/закрытости (англ. The Open Closed Principle, OCP) — принцип ООП, устанавливающий следующее положение: «программные сущности (классы, модули, функции и т. п.) должны быть открыты для расширения, но закрыты для изменения». </p>
 
